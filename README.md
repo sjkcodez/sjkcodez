@@ -30,8 +30,8 @@ My long-term goal is to become a **Cloud Infrastructure Engineer / Linux System 
 -  IT Infrastructure & Technical Support
 -  Python Automation & Bash Scripting
 -  Docker & Containers
-- 🔴 Cloud Computing (AWS · Azure · Google Cloud)
-- 🔴 Cybersecurity Foundations & DevOps
+-  Cloud Computing (AWS · Azure · Google Cloud)
+-  Cybersecurity Foundations & DevOps
 
 > _"Building reliable infrastructure through continuous learning, automation, and open-source technologies."_
 
@@ -63,7 +63,7 @@ My long-term goal is to become a **Cloud Infrastructure Engineer / Linux System 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sjkcodez&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0d1117&title_color=f0a868&icon_color=56d4dd&text_color=e6edf3" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=sjkcodez&hide_border=true&theme=dark&background=0D1117&stroke=0D1117&ring=56D4DD&fire=F0A868&currStreakLabel=56D4DD" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=sjkcodez&hide_border=true&theme=dark&background=0D1117&stroke=0D1117&ring=56D4DD&fire=F0A868&currStreakLabel=56D4DD" height="165"/>
 </p>
 
 <!-- <p align="center"><i>Total Contributions · Current Streak · Longest Streak — pulled live from the GitHub API.</i></p> -->
