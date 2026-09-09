@@ -1,6 +1,6 @@
 <div align="center">
 
-![sjkcodez](./sjkcodez_card.png)
+![sjkcodez](./sjkcodez_card.svg)
 
 </div>
 
